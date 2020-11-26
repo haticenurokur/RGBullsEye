@@ -3,4 +3,4 @@ first Swift UI project
 
 Hello,
 
-This project based on Ray Wenderlich Swift UI Books Chapter 2
+This project based on Ray Wenderlich Swift UI Book Chapter 2
